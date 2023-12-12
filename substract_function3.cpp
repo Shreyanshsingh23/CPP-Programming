@@ -22,5 +22,6 @@ int subs(){
 int main(){
  int answer =subs();   
  cout << answer << endl;
-// return answer;
+ return 1;
+
 }
